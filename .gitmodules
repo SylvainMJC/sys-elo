@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:SylvainMJC/sys-elo-back.git
+[submodule "front"]
+	path = front
+	url = git@github.com:SylvainMJC/sys-elo-front.git
