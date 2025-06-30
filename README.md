@@ -29,7 +29,7 @@ Sys-Elo est une application web de gestion de matchs en temps réel, combinant u
 - Alexandre VALLON [github](https://github.com/Al-vallon/Al-vallon)
 
 ## 3. URL de production
-Application en ligne : https://sys-elo-front-cynwkjdhm-sylvainmjcs-projects.vercel.app/
+Application en ligne : [https://sys-elo-front-cynwkjdhm-sylvainmjcs-projects.vercel.app/](https://sys-elo-front.vercel.app)
 
 ## 4. Architecture technique
 - Frontend : Angular 17+ (`front/`)
