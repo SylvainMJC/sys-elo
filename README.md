@@ -26,8 +26,7 @@ Sys-Elo est une application web de gestion de matchs en temps réel, combinant u
 
 ## 2. Membres et promotion
 - Sylvain CONAN
-- Alexandre VAILLON
-- Bachelor 3 DEVIA FullStack - Classe C1
+- Alexandre VALLON [github](https://github.com/Al-vallon/Al-vallon)
 
 ## 3. URL de production
 Application en ligne : https://sys-elo-front-cynwkjdhm-sylvainmjcs-projects.vercel.app/
@@ -140,7 +139,6 @@ Le service `discordNotificationService` centralise l'envoi des notifications. De
 - `DISCORD_BOT_TOKEN` : Token du bot Discord
 - `DISCORD_WEBHOOK_URL` : URL du webhook Discord
 - `DISCORD_CHANNEL_ID` : ID du salon Discord
-- (Ajouter toute variable supplémentaire selon vos besoins)
 
 ## 14. Gestion des erreurs
 - Les erreurs sont gérées via des middlewares Express et des try/catch dans les contrôleurs/services.
