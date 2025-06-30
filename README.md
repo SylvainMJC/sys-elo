@@ -133,7 +133,8 @@ Le service `discordNotificationService` centralise l'envoi des notifications. De
 - `POST /api/matches/discord/simulate` : Simule une notification Discord
 - `POST /api/matches/discord/daily-stats` : Teste l'envoi des statistiques quotidiennes
 
-### Redis (routes)- `POST /api/matches/:id/start` : Démarre un match
+### Redis (routes)- 
+-`POST /api/matches/:id/start` : Démarre un match
 - `PATCH /api/matches/:id/score` : Met à jour le score en direct du match
 - `POST /api/matches/:id/end` : Termine un match
 - `GET /api/matches/:id/live` : Récupère les données en direct d’un match
